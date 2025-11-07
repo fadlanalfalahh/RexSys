@@ -1,11 +1,11 @@
-# 🧾 RexSys
+# RexSys
 
 **RexSys** adalah sistem manajemen stok sederhana yang digunakan oleh perusahaan konveksi *Rexsy Collection* (produsen busana bayi).  
 Aplikasi ini membantu dalam mendata dan memantau pergerakan stok barang masuk dan keluar secara efisien.
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 - 🔐 **Login System** — Akses aman dengan autentikasi pengguna.  
 - 📦 **Manajemen Kategori Barang** — CRUD kategori barang.  
 - 🧾 **Manajemen Barang** — CRUD data barang dengan satuan (lusin, seri, dll).  
@@ -15,7 +15,7 @@ Aplikasi ini membantu dalam mendata dan memantau pergerakan stok barang masuk da
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Bahasa Pemrograman:** PHP Native  
 - **Database:** MariaDB  
 - **Frontend:** HTML, CSS, Bootstrap, DataTables, jQuery
@@ -23,7 +23,7 @@ Aplikasi ini membantu dalam mendata dan memantau pergerakan stok barang masuk da
 
 ---
 
-## 🖥️ Tampilan Aplikasi
+## Tampilan Aplikasi
 | Halaman | Deskripsi |
 |----------|------------|
 | Login | Form autentikasi pengguna sebelum mengakses sistem |
@@ -35,14 +35,14 @@ Aplikasi ini membantu dalam mendata dan memantau pergerakan stok barang masuk da
 
 ---
 
-## 👤 Pengembang
+## Pengembang
 **Fadlan Al Falah Baihaqi**  
 📍 Bandung, Indonesia  
 🔗 [GitHub Profile](https://github.com/fadlanalfalahh/)
 
 ---
 
-> 🧠 *RexSys* dikembangkan sebagai sistem manajemen stok sederhana untuk kebutuhan operasional internal perusahaan konveksi.  
+> *RexSys* dikembangkan sebagai sistem manajemen stok sederhana untuk kebutuhan operasional internal perusahaan konveksi.  
 > Fokus utama: kecepatan input data, kemudahan penggunaan, dan tampilan yang bersih.
 
 ---
