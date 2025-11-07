@@ -46,4 +46,3 @@ Majalaya - Bandung, Indonesia
 > Fokus utama: kecepatan input data, kemudahan penggunaan, dan tampilan yang bersih.
 
 ---
-
