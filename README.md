@@ -6,12 +6,12 @@ Aplikasi ini membantu dalam mendata dan memantau pergerakan stok barang masuk da
 ---
 
 ## Fitur Utama
-- 🔐 **Login System** — Akses aman dengan autentikasi pengguna.  
-- 📦 **Manajemen Kategori Barang** — CRUD kategori barang.  
-- 🧾 **Manajemen Barang** — CRUD data barang dengan satuan (lusin, seri, dll).  
-- 📥 **Barang Masuk** — Pencatatan stok masuk berdasarkan tanggal dan kategori.  
-- 📤 **Barang Keluar** — Pencatatan stok keluar secara rinci.  
-- 📊 **Dashboard Ringkasan** — Menampilkan total barang masuk, keluar, dan stok akhir per kategori.
+- **Login System** — Akses aman dengan autentikasi pengguna.  
+- **Manajemen Kategori Barang** — CRUD kategori barang.  
+- **Manajemen Barang** — CRUD data barang dengan satuan (lusin, seri, dll).  
+- **Barang Masuk** — Pencatatan stok masuk berdasarkan tanggal dan kategori.  
+- **Barang Keluar** — Pencatatan stok keluar secara rinci.  
+- **Dashboard Ringkasan** — Menampilkan total barang masuk, keluar, dan stok akhir per kategori.
 
 ---
 
