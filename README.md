@@ -6,12 +6,12 @@ Aplikasi ini membantu dalam mendata dan memantau pergerakan stok barang masuk da
 ---
 
 ## Fitur Utama
-- **Login System** — Akses aman dengan autentikasi pengguna.  
+- **Login Sistem** — Akses aman dengan autentikasi pengguna.
+- **Dashboard Ringkasan** — Menampilkan total barang masuk, keluar, dan stok akhir per kategori.
 - **Manajemen Kategori Barang** — CRUD kategori barang.  
 - **Manajemen Barang** — CRUD data barang dengan satuan (lusin, seri, dll).  
 - **Barang Masuk** — Pencatatan stok masuk berdasarkan tanggal dan kategori.  
 - **Barang Keluar** — Pencatatan stok keluar secara rinci.  
-- **Dashboard Ringkasan** — Menampilkan total barang masuk, keluar, dan stok akhir per kategori.
 
 ---
 
@@ -19,7 +19,6 @@ Aplikasi ini membantu dalam mendata dan memantau pergerakan stok barang masuk da
 - **Bahasa Pemrograman:** PHP Native  
 - **Database:** MariaDB  
 - **Frontend:** HTML, CSS, Bootstrap, DataTables, jQuery
-- **Server Environment:** Apache-based (Local Server: XAMPP atau Online Hosting)
 
 ---
 
@@ -43,6 +42,5 @@ Majalaya - Bandung, Indonesia
 ---
 
 > *RexSys* dikembangkan sebagai sistem manajemen stok sederhana untuk kebutuhan operasional internal perusahaan konveksi.  
-> Fokus utama: kecepatan input data, kemudahan penggunaan, dan tampilan yang bersih.
 
 ---
