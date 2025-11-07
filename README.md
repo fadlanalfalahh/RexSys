@@ -37,8 +37,8 @@ Aplikasi ini membantu dalam mendata dan memantau pergerakan stok barang masuk da
 
 ## Pengembang
 **Fadlan Al Falah Baihaqi**  
-📍 Bandung, Indonesia  
-🔗 [GitHub Profile](https://github.com/fadlanalfalahh/)
+Majalaya - Bandung, Indonesia  
+[GitHub Profile](https://github.com/fadlanalfalahh/)
 
 ---
 
